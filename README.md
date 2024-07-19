@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Hi, I'm Hosna 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Hosna Alemi - Cloud engineer alongside a cartoon illustration of Hosna">
+
 <!--
 **hosnaalemi/hosnaalemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
